@@ -5,6 +5,6 @@ Above you'll be able to see Sample_Submission. Your folder after the pull reques
 Make sure you upload ```alias.txt``` with your alias name too.
 
 Applications received from :
-* Sanidhya Mahale  
+* Sanidhya Mahale (still wrongly configured. Add folder and map it to the submodule)
 * Anarchy
 * Micheal Scott
