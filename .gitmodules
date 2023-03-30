@@ -24,3 +24,6 @@
 [submodule "ME22B214-Abhiyaan"]
 	path = ME22B214-Abhiyaan
 	url = https://github.com/BracedHornet186/ME22B214-Abhiyaan.git
+[submodule "ME22B208"]
+	path = ME22B208
+	url = https://github.com/TrishaWadhwani/ME22B208.git
